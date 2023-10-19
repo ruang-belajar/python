@@ -19,7 +19,7 @@ Sebelum Anda belajar pemrograman dengan python, mungkin mengenal [_apa itu pytho
 7. [Input dan Output](07.-Input-dan-Output.md)
 8. [Tipe Data](08.-Tipe-Data.md)
 9.  [Operasi Data](09.-Operasi-Data.md)
-10. [Pengambilan Keputusan (IF)](10.-if.md)
+10. [Pengambilan Keputusan (IF)](10.-Pengambilan-Keputusan-(IF).md)
 11. [Pengulangan (Loop)](11.-Pengulangan-(Loop).md)
 12. [List](12.-List.md)
 13. [Dictionary](13.-Dictionary.md)
