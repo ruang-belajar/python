@@ -27,6 +27,23 @@ int main() {
 using namespace std;
 
 int main() {
+    string depan, belakang, lengkap;
+    depan = "Budi";
+    belakang = "Raharjo";
+    
+    lengkap = depan + " " + belakang;
+
+    cout << "Hallo " << lengkap;
+    cout << "Apa kabar";
+}
+```
+
+**Soal 3**
+```c++
+#include<iostream>
+using namespace std;
+
+int main() {
     string depan, belakang, lengkap, jeniskelamin;
     cout << "Nama Depan:";
     cin >> depan;
@@ -46,7 +63,7 @@ int main() {
 }
 ```
 
-**Soal 3**
+**Soal 4**
 ```c++
 #include<iostream>
 using namespace std;
@@ -86,7 +103,7 @@ int main() {
 }
 ```
 
-**Soal 4**
+**Soal 5**
 ```c++
 #include<iostream>
 using namespace std;
