@@ -7,7 +7,7 @@ Repositori ini juga disusun sebagai salah satu bahan pembelajaran dari mata kuli
 Sebelum Anda belajar pemrograman dengan python, mungkin mengenal [_apa itu python_](01.-Mengenal-Python.md). Setelah itu, langkah pertama untuk mempelajari python adalah melakukan [Instalasi Python](02.-Instalasi-Python.md), kemudian cobalah [Membuat program python sederhana](03.-Membuat-program-python-pertama-Anda.md).
 
 ---
-#### Materi pembelajaran
+### Materi pembelajaran
 1. [Mengenal Python](01.-Mengenal-Python.md)
 2. [Instalasi Python](02.-Instalasi-Python.md)
 3. [Membuat program python pertama Anda](03.-Membuat-program-python-pertama-Anda.md)
@@ -27,6 +27,12 @@ Sebelum Anda belajar pemrograman dengan python, mungkin mengenal [_apa itu pytho
 15. [Standard Library](15.-Standard-Library.md)
 16. [PIP & Modules](16.-PIP-&-Modules.md)
 17. [Jupyter Notebook](17.-Jupyter-Notebook.md)
+
+---
+
+### Folders
+- [Latihan](https://github.com/ruang-belajar/python/tree/master/latihan)
+- [Notebooks](https://github.com/ruang-belajar/python/tree/master/notebook)
 
 ---
 
