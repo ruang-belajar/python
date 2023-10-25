@@ -7,7 +7,7 @@
 - Tugas: [Konversi Program](latihan/konversi-1.md)
 
 ## Pertemuan 2
-- [Variable](docs/06.-Variabel.md
+- [Variable](docs/06.-Variabel.md)
 - [Input Output](docs/07.-Input-dan-Output.md)
 - [Tipe Data](docs/08.-Tipe-Data.md)
 - [Operasi Aritmatika](docs/09.-Operasi-Data.md)
