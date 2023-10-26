@@ -52,14 +52,6 @@ int main() {
     cout << "laki-laki/perempuan (l/p)?";
     cin >> jeniskelamin;
 
-    lengkap = depan + " " + belakang;
-
-    if(jeniskelamin=="l") {
-        cout << "Selamat siang, bapak " << lengkap;
-    } else {
-        cout << "Selamat siang, ibu " << lengkap;
-    }
-
 }
 ```
 
