@@ -17,9 +17,14 @@
 - [LOOP](docs/11.-Pengulangan-Loop.md)
 
 ## Pertemuan 3
-- Mengatasi _Syntax Error_
+- list
+- loop for
+- Tugas: [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md)
 
 ## Pertemuan 4
+- Mengatasi _Syntax Error_
+- Latihan: [syntax-error-3](latihan/syntax-error-3.md), [syntax-error-4](latihan/syntax-error-4.md)
+- 
 
 ## Pertamuan 5
 
