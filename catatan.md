@@ -4,7 +4,7 @@
 - Pengenalan Python
 - Install dan menjalankan Python
 - Membuat program sederhana
-- Tugas: [Konversi Program](latihan/konversi-1.md)
+- Tugas: [Konversi Program](latihan/konversi-1.md) 📄`soal2.py`  📄`soal3.py` 📄`soal4.py` 📄`tugas5`
 
 ## Pertemuan 2
 - Pembahasan tugas [Konversi Program](latihan/konversi-1.md)
@@ -19,7 +19,7 @@
 ## Pertemuan 3
 - list
 - loop for
-- Tugas: [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md)
+- Tugas: [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md) 📄`tugas1`
 
 ## Pertemuan 4
 - Mengatasi _Syntax Error_
