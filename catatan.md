@@ -24,6 +24,10 @@
 ## Pertemuan 4
 - Mengatasi _Syntax Error_
 - Latihan: [syntax-error-3](latihan/syntax-error-3.md), [syntax-error-4](latihan/syntax-error-4.md)
+- Review fitur Python yang sudah dipelajari
+- Dictionary
+- - Latihan: [syntax-error-1](latihan/syntax-error-1.md), [syntax-error-2](latihan/syntax-error-2.md)
+- Object Methods: string, list, dictionary
 - 
 
 ## Pertamuan 5

@@ -16,7 +16,7 @@ Angka?1
 Angka?3
 Angka?5
 Angka?0
-Tota = 9
+Total = 9
 ```
 
 **Contoh 2:**
