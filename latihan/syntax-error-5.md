@@ -16,11 +16,11 @@ daftar = {
 
 nim = input("NIM: ")
 
-if nim in daftar
-    print("Nama:",daftar[nim]['nama'])
-    print("Usia:",daftar[nim]['usia'])
-    print("Mata kuliah pertama:", daftar[nim]['matkul'][0])
-    print("Jumlah Mata Kuliah:", len(daftar[nim]['matkul']) )
+if nim siswa in daftar.items()
+    print("Nama:",siswa[nim]['nama'])
+    print("Usia:",siswa[nim]['usia'])
+    print("Mata kuliah pertama:", siswa[nim][matkul][0])
+    print("Jumlah Mata Kuliah:", len(siswa[nim][matkul) )
 else
     print("Data tidak ditemukan"
 ```
