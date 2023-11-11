@@ -1,4 +1,4 @@
-Program dibawah ini ketika dijalankan akan meminta input NIM dari user kemudian menampilkan data sesuai NIM. Tapi program berikut memiliki 4 kesalah (huruf yang hilang). Perbaiki program ini.
+Program dibawah ini ketika dijalankan akan meminta input NIM dari user kemudian menampilkan data sesuai NIM. Tapi program berikut memiliki beberapa kesalah (huruf yang hilang). Perbaiki program ini.
 
 ```
 daftar = {
