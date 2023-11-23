@@ -31,9 +31,10 @@
 - 
 
 ## Pertamuan 5
-- object methods
+- object methods: list, string
 - import `math`, `random`
-- Tebak angka- 
+- Tebak angka
 
 ## Pertemuan 6
-- 
+- menggunakan standard library `datetime`
+- pipy
