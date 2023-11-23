@@ -31,5 +31,9 @@
 - 
 
 ## Pertamuan 5
+- object methods
+- import `math`, `random`
+- Tebak angka- 
 
 ## Pertemuan 6
+- 
