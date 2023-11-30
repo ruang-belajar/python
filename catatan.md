@@ -36,5 +36,28 @@
 - Tebak angka
 
 ## Pertemuan 6
-- menggunakan standard library `datetime`
-- pipy
+- Standard Library
+- datetime
+- Non Standard Library
+  - wikipedia
+  - pendulum
+  - fabulous
+  - pywebview
+  - seaborn 
+
+## Pertemuan 7
+- Contoh program
+
+## Pertemuan 8
+- Pygame
+
+## Pertemuan 9
+- Jupyter Notebook
+- Pandas
+
+## Pertemuan 10
+- Jupyter Notebook
+- matplotlib
+
+## Pertemuan 11
+- OpenCV
