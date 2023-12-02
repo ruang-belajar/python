@@ -50,6 +50,7 @@
 
 ## Pertemuan 8
 - Pygame
+- Intro: Godot
 
 ## Pertemuan 9
 - Jupyter Notebook
@@ -60,4 +61,14 @@
 - matplotlib
 
 ## Pertemuan 11
+- Pillow
 - OpenCV
+
+## Pertemuan 12
+- Web Scrapping
+- BeautifulSoup
+
+## Pertemuan 13
+- Selenium
+
+## Pertemuan 14
