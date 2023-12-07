@@ -46,29 +46,42 @@
   - seaborn 
 
 ## Pertemuan 7
-- Contoh program
+- Simulasi UTS
 
 ## Pertemuan 8
-- Pygame
-- Intro: Godot
+- UTS
 
 ## Pertemuan 9
-- Jupyter Notebook
-- Pandas
+- Pygame
 
 ## Pertemuan 10
 - Jupyter Notebook
-- matplotlib
+- Setup
+- pandas 
 
 ## Pertemuan 11
+- Jupyter Notebook
+- Pandas + matplotlib
+
+## Pertemuan 12
 - Pillow
 - OpenCV
 
-## Pertemuan 12
+## Pertemuan 13
 - Web Scrapping
 - BeautifulSoup
 
-## Pertemuan 13
+## Pertemuan 14
 - Selenium
 
-## Pertemuan 14
+## Pertemuan 15
+- Simulasi UAS
+
+## Pertemuan 16
+- UAS
+
+# Tugas
+## Pra UTS
+- [pahlawan.py](latihan/nama-pahlawan-indonesia.md)
+- [tugas1.py]: game tebak angka + menghitung banyak tebakan
+- [tugas2.py]: game tebak angka + menghitung banyak tebakan + waktu permainan
