@@ -3,7 +3,7 @@
 Tambahkan kode program di bawah ini sehingga menampilkan list seperti pada _Output program_
 
 ```python
-daftar = ['Fritz', 'Zeratul', 'Matriac', 'Artanis', 'Arcturus', 'Raynor', 'Kerrigan', 'Mar Sara']
+daftar = ['Fenix', 'Zeratul', 'Matriac', 'Artanis', 'Arcturus', 'Raynor', 'Kerrigan', 'Mar Sara']
 
 # tambahkan kode program di bawah ini
 

@@ -4,11 +4,11 @@ Perbaiki kode program di bawah ini sehingga bisa menampilkan hasil seperti pada 
 
 ```python
 daftar = [
-    { 'nama': 'Picard', jabatan: 'Captain'},
-    { 'nama': 'Riker', jabatan: 'First Officer'},
-    { 'nama': 'O`Brien', jabatan: 'Transport'},
-    { 'nama': 'Troy', jabatan: 'Counselor'},
-    { 'nama': 'Worf', jabatan: 'Security'}
+    { 'nama': Picard', 'jabatan': 'Captain'},
+    { 'nama': 'Riker', 'jabatan': 'First Officer'},
+    { 'nama': 'O`Brien', jabatan': 'Transport'},
+    { 'nama': 'Troy, 'jabatan': 'Counselor'},
+    { 'nama: 'Worf', 'jabatan': 'Security'}
 ]
 
 print(Manifest Penumpang:)
@@ -16,7 +16,7 @@ print("=======================")
 n 1
 for dat in daftar
     print("No", n)
-    print("Nama:", data['nama'])
+    print("Nama:" data['nama'])
     print("Jabatan:", data[jabatan])
     print("-----------------------")
     n=1
