@@ -34,7 +34,7 @@ Sebelum Anda belajar pemrograman dengan python, mungkin mengenal [_apa itu pytho
 - [Catatan Belajar](https://github.com/ruang-belajar/python/blob/master/catatan.md)
 - [Folder: Latihan](https://github.com/ruang-belajar/python/tree/master/latihan)
 - [Folder: Jupyter Notebooks](https://github.com/ruang-belajar/python/tree/master/notebook)
-- [Soal UTS](https://github.com/ruang-belajar/python/blob/master/latihan/uts.md)
+- [Folder: Contoh Program](https://github.com/ruang-belajar/python/blob/master/contoh/)
 
 ---
 
