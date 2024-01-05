@@ -55,13 +55,20 @@
 - Pygame
 
 ## Pertemuan 10
-- Jupyter Notebook
-- Setup
-- pandas 
+- Pygame
+- Intro Godot
 
 ## Pertemuan 11
 - Jupyter Notebook
-- Pandas + matplotlib
+- Google Colab
+- https://github.com/ruang-belajar/python/blob/master/notebook/01-intro-python-jupyter.ipynb
+- https://github.com/ruang-belajar/python/blob/master/notebook/04-google-colab-latex.ipynb
+- https://github.com/ruang-belajar/python/blob/master/notebook/02-intro-pandas.ipynb
+
+## Pertemuan 11
+- Jupyter Notebook
+- https://github.com/ruang-belajar/python/blob/master/notebook/02-intro-pandas.ipynb
+
 
 ## Pertemuan 12
 - Pillow
@@ -80,8 +87,3 @@
 ## Pertemuan 16
 - UAS
 
-# Tugas
-## Pra UTS
-- [pahlawan.py](latihan/nama-pahlawan-indonesia.md)
-- [tugas1.py]: game tebak angka + menghitung banyak tebakan
-- [tugas2.py]: game tebak angka + menghitung banyak tebakan + waktu permainan
