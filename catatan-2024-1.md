@@ -1,10 +1,12 @@
-# Catatan Pertemuan
+# Catatan Pertemuan 2024 (1)
 
 ## Pertemuan 1
 - Pengenalan Python
 - Install dan menjalankan Python
 - Membuat program sederhana
 - Tugas: [Konversi Program](latihan/konversi-1.md) 📄`soal2.py`  📄`soal3.py` 📄`soal4.py` 📄`tugas5`
+
+---
 
 ## Pertemuan 2
 - Pembahasan tugas [Konversi Program](latihan/konversi-1.md)
@@ -17,8 +19,9 @@
 - [LOOP](docs/11.-Pengulangan-Loop.md)
 
 ## Pertemuan 3
-- list
-- loop for
+- [List](docs/12.-List.md)
+- [Dictionary](docs/13.-Dictionary.md)
+- Loop `for`
 - Tugas: [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md) 📄`tugas1`
 
 ## Pertemuan 4
@@ -30,7 +33,7 @@
 - Object Methods: string, list, dictionary
 - 
 
-## Pertamuan 5
+## Pertemuan 5
 - object methods: list, string
 - import `math`, `random`
 - Tebak angka
