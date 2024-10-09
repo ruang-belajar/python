@@ -1,21 +1,10 @@
-# Catatan Pertemuan 2024 (1)
-
-**Link penting:**
-- [Modul & Tutorial](docs/README.md)
-- [Folder Latihan](latihan/)
-
----
+# Catatan Pertemuan 2023
 
 ## Pertemuan 1
-- [Pengenalan Python](docs/01.-Mengenal-Python.md)
-- [Install dan menjalankan Python](docs/02.-Instalasi-Python.md)
-- [Membuat program sederhana](docs/03.-Membuat-program-python-pertama-Anda.md)
-- Tugas:\
-  Lihat [Konversi Program](latihan/konversi-1.md)\
-  Simpan file jawaban dengan nama: 📄`soal1.py` 📄`soal2.py`  📄`soal3.py` 📄`soal4.py` 📄`tugas5`
-- Siapkan instalasi _Visual Studio Code_ + _Python Extension_
-
----
+- Pengenalan Python
+- Install dan menjalankan Python
+- Membuat program sederhana
+- Tugas: [Konversi Program](latihan/konversi-1.md) 📄`soal2.py`  📄`soal3.py` 📄`soal4.py` 📄`tugas5`
 
 ## Pertemuan 2
 - Pembahasan tugas [Konversi Program](latihan/konversi-1.md)
@@ -24,14 +13,12 @@
 - [Tipe Data](docs/08.-Tipe-Data.md)
 - [Operasi Aritmatika](docs/09.-Operasi-Data.md)
 - [IF](docs/10.-Pengambilan-Keputusan-IF.md)
-  - Indentasi & scope program
   - Latihan: [Latihan IF 1](latihan/latihan-if-1.md), [Latihan IF 2](latihan/latihan-if-2.md)
 - [LOOP](docs/11.-Pengulangan-Loop.md)
 
 ## Pertemuan 3
-- [List](docs/12.-List.md)
-- [Dictionary](docs/13.-Dictionary.md)
-- Loop `for`
+- list
+- loop for
 - Tugas: [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md) 📄`tugas1`
 
 ## Pertemuan 4
@@ -43,7 +30,7 @@
 - Object Methods: string, list, dictionary
 - 
 
-## Pertemuan 5
+## Pertamuan 5
 - object methods: list, string
 - import `math`, `random`
 - Tebak angka
