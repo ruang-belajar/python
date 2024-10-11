@@ -72,6 +72,7 @@
 
 ## Pertemuan 9
 - Pygame
+- https://www.petanikode.com/pygame-untuk-pemula/
 
 ## Pertemuan 10
 - Pygame
