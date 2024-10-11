@@ -1,5 +1,7 @@
 # Catatan Pertemuan 2024 (1)
 
+**‼ BOOKMARK HALAMAN INI ‼**
+
 **Link penting:**
 - [Modul & Tutorial](docs/README.md)
 - [Folder Latihan](latihan/)
@@ -10,9 +12,10 @@
 - [Pengenalan Python](docs/01.-Mengenal-Python.md)
 - [Install dan menjalankan Python](docs/02.-Instalasi-Python.md)
 - [Membuat program sederhana](docs/03.-Membuat-program-python-pertama-Anda.md)
+- [Poin-poin penting ketika mempelajari bahasa pemrograman baru](https://ruang-belajar.github.io/materi-pelengkap/dasar-pemrograman.html)
 - Tugas:\
   Lihat [Konversi Program](latihan/konversi-1.md)\
-  Simpan file jawaban dengan nama: 📄`soal1.py` 📄`soal2.py`  📄`soal3.py` 📄`soal4.py` 📄`tugas5`
+  Kerjakan *Soal 1*, *Soal 2* dan *Soal 3*. Simpan file jawaban dengan nama: 📄`soal1.py` 📄`soal2.py`  📄`soal3.py` 
 - Siapkan instalasi _Visual Studio Code_ + _Python Extension_
 
 ---
@@ -27,6 +30,9 @@
   - Indentasi & scope program
   - Latihan: [Latihan IF 1](latihan/latihan-if-1.md), [Latihan IF 2](latihan/latihan-if-2.md)
 - [LOOP](docs/11.-Pengulangan-Loop.md)
+- Tugas:\
+  Lihat [Konversi Program](latihan/konversi-1.md)\
+  Kerjakan *Soal 4* dan *Soal 5*, Simpan file jawaban dengan nama: 📄`soal4.py` 📄`soal5.py`
 
 ## Pertemuan 3
 - [List](docs/12.-List.md)
