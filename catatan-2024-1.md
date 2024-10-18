@@ -18,21 +18,30 @@
   Kerjakan *Soal 1*, *Soal 2* dan *Soal 3*. Simpan file jawaban dengan nama: 📄`soal1.py` 📄`soal2.py`  📄`soal3.py` 
 - Siapkan instalasi _Visual Studio Code_ + _Python Extension_
 
----
-
 ## Pertemuan 2
-- Pembahasan tugas [Konversi Program](latihan/konversi-1.md)
+- [menjalankan program](docs/03.-Membuat-program-python-pertama-Anda.md):
+  - menjalankan lewat interpreter
+  - langsung lewat VS Code
+  - lewat terminal
 - [Variable](docs/06.-Variabel.md)
 - [Input Output](docs/07.-Input-dan-Output.md)
 - [Tipe Data](docs/08.-Tipe-Data.md)
 - [Operasi Aritmatika](docs/09.-Operasi-Data.md)
+- Pembahasan tugas [Konversi Program](latihan/konversi-1.md)
+- Accept assignment Github Classroom [folder-kerja-python](https://classroom.github.com/a/SE4dtefE)
+  - pindahkan file tugas ke `folder-kerja-python`
+  - `commit` & `push`
 - [IF](docs/10.-Pengambilan-Keputusan-IF.md)
   - Indentasi & scope program
   - Latihan: [Latihan IF 1](latihan/latihan-if-1.md), [Latihan IF 2](latihan/latihan-if-2.md)
 - [LOOP](docs/11.-Pengulangan-Loop.md)
 - Tugas:\
   Lihat [Konversi Program](latihan/konversi-1.md)\
-  Kerjakan *Soal 4* dan *Soal 5*, Simpan file jawaban dengan nama: 📄`soal4.py` 📄`soal5.py`
+  Kerjakan *Soal 4* dan *Soal 5*, Simpan file jawaban dengan nama: 📄`soal4.py` 📄`soal5.py`\
+  Simpan file kerja di `folder-kerja-python`, jangan lupa di `commit` & `push`
+
+---
+
 
 ## Pertemuan 3
 - [List](docs/12.-List.md)
