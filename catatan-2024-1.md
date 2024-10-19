@@ -33,19 +33,20 @@
 - Pembahasan tugas [Konversi Program](latihan/konversi-1.md)
 - [IF](docs/10.-Pengambilan-Keputusan-IF.md)
   - Indentasi & scope program
-  - Latihan: [Latihan IF 2](latihan/latihan-if-2.md), [Latihan IF 1](latihan/latihan-if-1.md)
-- [LOOP](docs/11.-Pengulangan-Loop.md)
-  - Latihan: [Latihan LOOP 1](latihan/latihan-loop-1.md), [Latihan LOOP 2](latihan/latihan-loop-2.md)
+  - Latihan: [Latihan IF 2](latihan/latihan-if-2.md)
 - Tugas:\
   Lihat [Konversi Program](latihan/konversi-1.md)\
   Kerjakan *Soal 4* dan *Soal 5*, Simpan file jawaban dengan nama: 📄`soal4.py` 📄`soal5.py`\
-  Simpan file kerja di `folder-kerja-python`, jangan lupa di `commit` & `push`
+  Kerjakan [Latihan IF 1](latihan/latihan-if-1.md) simpan sebagai 📄`soal6.py`\
+  Simpan file kerja di `folder-kerja-python`, jangan lupa di `commit` & `push`\
+  Kirimkan juga semua file dari minggu lalu. Jadi total ada ada 6 file.
 
 ---
 
 
 ## Pertemuan 3
-- Review [LOOP](docs/11.-Pengulangan-Loop.md)
+- [LOOP](docs/11.-Pengulangan-Loop.md)
+  - Latihan: [Latihan LOOP 1](latihan/latihan-loop-1.md), [Latihan LOOP 2](latihan/latihan-loop-2.md)
 - [List](docs/12.-List.md)
 - [Dictionary](docs/13.-Dictionary.md)
 - Loop `for`

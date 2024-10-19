@@ -5,7 +5,7 @@ Buat program menggunakan python yang mensimulasikan _memilih makanan_. Proses pe
 ```mermaid
 flowchart TD;
     A[Start]-->B{Makan pedas?}
-    B-->|Ya| C{Berkuah}
+    B-->|Ya| C{Berkuah?}
     C-->|Ya| D[Semblak]
     C-->|Tidak| E[Indomie]
     B-->|Tidak| F{Manis?}
