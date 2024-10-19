@@ -9,4 +9,5 @@ while n < 9:
 
 **Pertanyaan:**
 1. Apa yang akan ditampilkan program?
-2. Lakukan perubahan pada program sehingga program mencetak angka dalam urutan terbalik: `987654321`
+2. Lakukan perubahan pada program sehingga program mencetak angka bilangan ganjil: `13579`
+3. Lakukan perubahan pada program sehingga program mencetak angka dalam urutan terbalik: `987654321` 

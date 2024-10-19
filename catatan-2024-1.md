@@ -27,14 +27,15 @@
 - [Input Output](docs/07.-Input-dan-Output.md)
 - [Tipe Data](docs/08.-Tipe-Data.md)
 - [Operasi Aritmatika](docs/09.-Operasi-Data.md)
-- Pembahasan tugas [Konversi Program](latihan/konversi-1.md)
 - Accept assignment Github Classroom [folder-kerja-python](https://classroom.github.com/a/SE4dtefE)
   - pindahkan file tugas ke `folder-kerja-python`
   - `commit` & `push`
+- Pembahasan tugas [Konversi Program](latihan/konversi-1.md)
 - [IF](docs/10.-Pengambilan-Keputusan-IF.md)
   - Indentasi & scope program
-  - Latihan: [Latihan IF 1](latihan/latihan-if-1.md), [Latihan IF 2](latihan/latihan-if-2.md)
+  - Latihan: [Latihan IF 2](latihan/latihan-if-2.md), [Latihan IF 1](latihan/latihan-if-1.md)
 - [LOOP](docs/11.-Pengulangan-Loop.md)
+  - Latihan: [Latihan LOOP 1](latihan/latihan-loop-1.md), [Latihan LOOP 2](latihan/latihan-loop-2.md)
 - Tugas:\
   Lihat [Konversi Program](latihan/konversi-1.md)\
   Kerjakan *Soal 4* dan *Soal 5*, Simpan file jawaban dengan nama: 📄`soal4.py` 📄`soal5.py`\
@@ -44,6 +45,7 @@
 
 
 ## Pertemuan 3
+- Review [LOOP](docs/11.-Pengulangan-Loop.md)
 - [List](docs/12.-List.md)
 - [Dictionary](docs/13.-Dictionary.md)
 - Loop `for`

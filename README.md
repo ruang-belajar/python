@@ -8,8 +8,9 @@ Folder repository:
 - `images`: folder resource gambar
 - `latihan`: kumpulan soal
 - `notebook`: kumpulan file _Jupyter Notebook_
+- [Catatan Belajar (2024)](catatan-2024-1.md)
 
 <p align=center>
-    <a href="https://ruang-belajar.github.io/python"><b>📚 MULAI BELAJAR 📚</b></a>
+    <a href="https://github.com/ruang-belajar/python"><b>📚 MULAI BELAJAR 📚</b></a>
 </p>
 
