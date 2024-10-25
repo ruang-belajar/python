@@ -41,16 +41,16 @@
   Simpan file kerja di `folder-kerja-python`, jangan lupa di `commit` & `push`\
   Kirimkan juga semua file dari minggu lalu. Jadi total ada ada 6 file.
 
----
-
-
 ## Pertemuan 3
+- Review tugas  [Konversi Program](latihan/konversi-1.md) dan  [Latihan IF 1](latihan/latihan-if-1.md)
 - [LOOP](docs/11.-Pengulangan-Loop.md)
   - Latihan: [Latihan LOOP 1](latihan/latihan-loop-1.md), [Latihan LOOP 2](latihan/latihan-loop-2.md)
 - [List](docs/12.-List.md)
 - [Dictionary](docs/13.-Dictionary.md)
 - Loop `for`
 - Tugas: [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md) 📄`tugas1`
+
+---
 
 ## Pertemuan 4
 - Mengatasi _Syntax Error_
