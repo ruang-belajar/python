@@ -26,5 +26,5 @@ Angka?3
 Angka?1
 Angka?5
 Angka?0
-Tota = 14
+Total = 14
 ```

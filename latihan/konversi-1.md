@@ -83,15 +83,6 @@ int main() {
             cout << "Halo, neng " << nama;
         }
     }
-
-    lengkap = depan + " " + belakang;
-
-    if(jeniskelamin=="l") {
-        cout << "Selamat siang, bapak " << lengkap;
-    } else {
-        cout << "Selamat siang, ibu " << lengkap;
-    }
-
 }
 ```
 

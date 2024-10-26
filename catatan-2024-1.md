@@ -46,13 +46,15 @@
 - [LOOP](docs/11.-Pengulangan-Loop.md)
   - Latihan: [Latihan LOOP 1](latihan/latihan-loop-1.md), [Latihan LOOP 2](latihan/latihan-loop-2.md)
 - [List](docs/12.-List.md)
-- [Dictionary](docs/13.-Dictionary.md)
 - Loop `for`
-- Tugas: [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md) 📄`tugas1`
+- Tugas: 
+  - [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md) 📄`tugas1.py`
+  - Lengkapi [Latihan LOOP 2](latihan/latihan-loop-2.md) sehingga selain total, program juga menampilkan nilai rata-rata. Simpan dengan nama  📄`tugas2.py`
 
 ---
 
 ## Pertemuan 4
+- [Dictionary](docs/13.-Dictionary.md)
 - Mengatasi _Syntax Error_
 - Latihan: [syntax-error-3](latihan/syntax-error-3.md), [syntax-error-4](latihan/syntax-error-4.md)
 - Review fitur Python yang sudah dipelajari
