@@ -51,17 +51,25 @@
   - [Nama Pahlawan](latihan/nama-pahlawan-indonesia.md) 📄`tugas1.py`
   - Lengkapi [Latihan LOOP 2](latihan/latihan-loop-2.md) sehingga selain total, program juga menampilkan nilai rata-rata. Simpan dengan nama  📄`tugas2.py`
 
----
 
 ## Pertemuan 4
+- Review Tugas
 - [Dictionary](docs/13.-Dictionary.md)
 - Mengatasi _Syntax Error_
 - Latihan: [syntax-error-3](latihan/syntax-error-3.md), [syntax-error-4](latihan/syntax-error-4.md)
-- Review fitur Python yang sudah dipelajari
 - Dictionary
-- - Latihan: [syntax-error-1](latihan/syntax-error-1.md), [syntax-error-2](latihan/syntax-error-2.md)
-- Object Methods: string, list, dictionary
-- 
+  - Latihan:
+    - [latihan-dict-1](latihan/latihan-dict-1.md): *Soal 1* dan *Soal 2*
+    - [syntax-error-1](latihan/syntax-error-1.md)
+    - [syntax-error-2](latihan/syntax-error-2.md)
+- Object Methods:
+  - [string](https://www.w3schools.com/python/python_ref_string.asp)
+  - [list](https://www.w3schools.com/python/python_ref_list.asp)
+  - [dictionary](https://www.w3schools.com/python/python_ref_dictionary.asp)
+- Tugas:
+  - [latihan-dict-1](latihan/latihan-dict-1.md): *Soal 3*
+---
+
 
 ## Pertemuan 5
 - object methods: list, string
