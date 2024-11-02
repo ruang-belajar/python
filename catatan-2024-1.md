@@ -55,11 +55,9 @@
 ## Pertemuan 4
 - Review Tugas
 - [Dictionary](docs/13.-Dictionary.md)
-- Mengatasi _Syntax Error_
-- Latihan: [syntax-error-3](latihan/syntax-error-3.md), [syntax-error-4](latihan/syntax-error-4.md)
 - Dictionary
   - Latihan:
-    - [latihan-dict-1](latihan/latihan-dict-1.md): *Soal 1* dan *Soal 2*
+    - [latihan-dict-1](latihan/latihan-dict-1.md): 📄`p4-soal1.py` 📄`p4-soal2.py`
     - [syntax-error-1](latihan/syntax-error-1.md)
     - [syntax-error-2](latihan/syntax-error-2.md)
 - Object Methods:
@@ -67,11 +65,13 @@
   - [list](https://www.w3schools.com/python/python_ref_list.asp)
   - [dictionary](https://www.w3schools.com/python/python_ref_dictionary.asp)
 - Tugas:
-  - [latihan-dict-1](latihan/latihan-dict-1.md): *Soal 3*
+  - [latihan-dict-1](latihan/latihan-dict-1.md): 📄`p4-soal3.py`
 ---
 
 
 ## Pertemuan 5
+- Mengatasi _Syntax Error_
+- Latihan: [syntax-error-3](latihan/syntax-error-3.md), [syntax-error-4](latihan/syntax-error-4.md)
 - object methods: list, string
 - import `math`, `random`
 - Tebak angka
