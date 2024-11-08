@@ -55,30 +55,43 @@
 ## Pertemuan 4
 - Review Tugas
 - [Dictionary](docs/13.-Dictionary.md)
+- Mengatasi _Syntax Error_
+- Latihan: [syntax-error-3](latihan/syntax-error-3.md), [syntax-error-4](latihan/syntax-error-4.md)
 - Dictionary
   - Latihan:
-    - [latihan-dict-1](latihan/latihan-dict-1.md): 📄`p4-soal1.py` 📄`p4-soal2.py`
-    - [syntax-error-1](latihan/syntax-error-1.md)
-    - [syntax-error-2](latihan/syntax-error-2.md)
+    - [latihan-dict-1](latihan/latihan-dict-1.md): *Soal 1* dan *Soal 2*
+
 - Object Methods:
   - [string](https://www.w3schools.com/python/python_ref_string.asp)
   - [list](https://www.w3schools.com/python/python_ref_list.asp)
   - [dictionary](https://www.w3schools.com/python/python_ref_dictionary.asp)
 - Tugas:
-  - [latihan-dict-1](latihan/latihan-dict-1.md): 📄`p4-soal3.py`
----
+  - [latihan-dict-1](latihan/latihan-dict-1.md): *Soal 3*
 
 
 ## Pertemuan 5
-- Mengatasi _Syntax Error_
-- Latihan: [syntax-error-3](latihan/syntax-error-3.md), [syntax-error-4](latihan/syntax-error-4.md)
-- object methods: list, string
-- import `math`, `random`
-- Tebak angka
+- Mengatasi error
+  - [syntax-error-1](latihan/syntax-error-1.md)
+  - [syntax-error-9](latihan/syntax-error-9.md)
+  - [syntax-error-3](latihan/syntax-error-3.md)
+- Review object methods: list, string, dictionary
+- [Standard Library](docs/15.-Standard-Library.md)
+  - `math`
+  - `random`
+- Latihan
+  - program menghitung luas dan keliling lingkaran
+  - program simulasi dadu
+- Tugas: Membuat game _tebak angka_
+  - Program akan mengenerate bilangan acak 1-100 sebagai _jawaban_
+  - Program akan menanyakan kepada user angka
+  - Program memberikan petunjuk apakah bilangan yang diinput itu "lebih besar" atau "lebih kecil" dari _jawaban_
+  - Program akan terus menanyakan bilangan, sampai user menebak bilangan yang benar.
+
+---
 
 ## Pertemuan 6
 - Standard Library
-- datetime
+  - `datetime`
 - Non Standard Library
   - wikipedia
   - pendulum
