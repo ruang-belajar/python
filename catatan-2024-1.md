@@ -81,11 +81,13 @@
 - Latihan
   - program menghitung luas dan keliling lingkaran
   - program simulasi dadu
-- Tugas: Membuat game _tebak angka_
+- Tugas: Membuat game _tebak angka_ 📄`tebakangka.py`
   - Program akan mengenerate bilangan acak 1-100 sebagai _jawaban_
   - Program akan menanyakan kepada user angka
   - Program memberikan petunjuk apakah bilangan yang diinput itu "lebih besar" atau "lebih kecil" dari _jawaban_
   - Program akan terus menanyakan bilangan, sampai user menebak bilangan yang benar.
+  - Tambahkan tulisan: "Program dibuat oleh ..."
+  - Hasil di _push_ ke `folder-kerja-python`
 
 ---
 
