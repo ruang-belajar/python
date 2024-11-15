@@ -89,17 +89,36 @@
   - Tambahkan tulisan: "Program dibuat oleh ..."
   - Hasil di _push_ ke `folder-kerja-python`
 
----
-
 ## Pertemuan 6
-- Standard Library
-  - `datetime`
+- Review tugas _tebak angka_
+- [List comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
+  - [Latihan list comprehension](latihan/list-comprehension-1.md)
+- Contoh penggunaan standard library
+  - turtle
+    - [Put Turtle Graphics Anywhere on the Web](https://trinket.io/turtle)
+    - [Python Turtle Programming](https://www.javatpoint.com/python-turtle-programming)
+  - tkinter
+    - [Python - GUI Programming](https://www.tutorialspoint.com/python/python_gui_programming.htm)
+    - [Github:sachinyadav3496/tkinter_examples](https://github.com/sachinyadav3496/tkinter_examples)
+  - http.server
+    - [Python SimpleHTTPServer - Python HTTP Server](https://www.digitalocean.com/community/tutorials/python-simplehttpserver-http-server)
+    - [Launch an HTTP Server with a Single Line of Python Code](https://www.geeksforgeeks.org/launch-an-http-server-with-a-single-line-of-python-code/)
 - Non Standard Library
-  - wikipedia
-  - pendulum
-  - fabulous
-  - pywebview
-  - seaborn 
+  - Menggunakan PIP
+  - Contoh modul:
+    - pygame
+    - arcade
+    - pendulum
+    - fabulous
+    - pywebview
+    - seaborn 
+    - pandas
+    - numpy
+    - opencv
+    - PIL
+    - pytorch
+
+---
 
 ## Pertemuan 7
 - Simulasi UTS
