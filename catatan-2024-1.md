@@ -91,16 +91,18 @@
 
 ## Pertemuan 6
 - Review tugas _tebak angka_
-- [List comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
-  - [Latihan list comprehension](latihan/list-comprehension-1.md)
+- `try` ... `except`
+- _User defined function_
+  - Fungsi dengan _return value_
+  - Fungsi tanpa _return value_
 - Contoh penggunaan standard library
-  - turtle
+  - `turtle`
     - [Put Turtle Graphics Anywhere on the Web](https://trinket.io/turtle)
     - [Python Turtle Programming](https://www.javatpoint.com/python-turtle-programming)
-  - tkinter
+  - `tkinter`
     - [Python - GUI Programming](https://www.tutorialspoint.com/python/python_gui_programming.htm)
     - [Github:sachinyadav3496/tkinter_examples](https://github.com/sachinyadav3496/tkinter_examples)
-  - http.server
+  - `http.server`
     - [Python SimpleHTTPServer - Python HTTP Server](https://www.digitalocean.com/community/tutorials/python-simplehttpserver-http-server)
     - [Launch an HTTP Server with a Single Line of Python Code](https://www.geeksforgeeks.org/launch-an-http-server-with-a-single-line-of-python-code/)
 - Non Standard Library
@@ -121,6 +123,9 @@
 ---
 
 ## Pertemuan 7
+- [List comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
+  - [Latihan list comprehension](latihan/list-comprehension-1.md)
+- Contoh penggunaan non standard library
 - Simulasi UTS
 
 ## Pertemuan 8
