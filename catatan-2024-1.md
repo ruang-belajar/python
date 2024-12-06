@@ -120,24 +120,25 @@
     - PIL
     - pytorch
 
----
-
 ## Pertemuan 7
-- [List comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
-  - [Latihan list comprehension](latihan/list-comprehension-1.md)
-- Contoh penggunaan non standard library
 - Simulasi UTS
 
 ## Pertemuan 8
 - UTS
 
 ## Pertemuan 9
-- Pygame
-- https://www.petanikode.com/pygame-untuk-pemula/
+- PIP
+- Pygame: membuat game
+  - URL: https://www.petanikode.com/pygame-untuk-pemula/
+  - Koreksi:
+    - Gambar disimpan di `resources/img/` (bukan `resources/images/`)
+
+---
 
 ## Pertemuan 10
 - Pygame
 - Intro Godot
+  - https://godotengine.org/download/windows/
 
 ## Pertemuan 11
 - Jupyter Notebook
@@ -168,3 +169,7 @@
 ## Pertemuan 16
 - UAS
 
+===
+- [List comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
+  - [Latihan list comprehension](latihan/list-comprehension-1.md)
+- Contoh penggunaan non standard library
