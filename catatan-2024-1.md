@@ -128,11 +128,19 @@
 
 ## Pertemuan 9
 - PIP
+  - `openpyxl`
+    - `contoh/pyxl1.py` 
+  - `pygame`
 - Pygame: membuat game
-  - URL: https://www.petanikode.com/pygame-untuk-pemula/
-  - Koreksi:
-    - Gambar disimpan di `resources/img/` (bukan `resources/images/`)
-
+  - `contoh/pygame/01-simple-circle.py`
+  - `contoh/pygame/02-simple-animated.py`
+  
+- Tugas: 
+  - Membuat game:
+    - URL: https://www.petanikode.com/pygame-untuk-pemula/
+    - Koreksi:
+      - Gambar disimpan di `resources/img/` (bukan `resources/images/`)
+    - Assignment repositori: https://classroom.github.com/a/HgvxHz9U
 ---
 
 ## Pertemuan 10
