@@ -133,8 +133,7 @@
   - `pygame`
 - Pygame: membuat game
   - `contoh/pygame/01-simple-circle.py`
-  - `contoh/pygame/02-simple-animated.py`
-  
+  - `contoh/pygame/02-simple-animated.py`  
 - Tugas: 
   - Membuat game:
     - URL: https://www.petanikode.com/pygame-untuk-pemula/
@@ -144,7 +143,19 @@
 ---
 
 ## Pertemuan 10
-- Pygame
+- Review "Game Panah"
+  - object
+  - Add sounds
+    - https://www.myinstants.com/en/instant/dota-killing-spree/
+    - https://www.myinstants.com/en/instant/dominating-dota/
+    - https://www.myinstants.com/en/instant/dota-mega-kill/
+    - https://www.myinstants.com/en/instant/dota-unstoppable/
+    - https://www.myinstants.com/en/instant/dota-wicked-sick/
+    - https://www.myinstants.com/en/instant/dota-2-monster-kill/
+    - https://www.myinstants.com/en/instant/godlike/
+    - https://www.myinstants.com/en/instant/dota-double-kill/
+    - https://www.myinstants.com/en/instant/dota-triple-kill/
+  - Add difficulity
 - Intro Godot
   - https://godotengine.org/download/windows/
 

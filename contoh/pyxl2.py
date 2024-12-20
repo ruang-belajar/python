@@ -4,13 +4,13 @@
 from random import randint
 from openpyxl import Workbook, load_workbook
 
-#
+# membuat objek workbook baru
 wb = Workbook()
 
-#
+# mengakses worksheet aktif
 ws = wb.active
 
-#
+# perintah untuk menulis "100 data acak" ke A1
 ws.cell(row=1, column=1).value = "100 data acak"
 
 #

@@ -2,10 +2,10 @@
 
 from openpyxl import Workbook, load_workbook
 
-# 
+# membaca file excel
 wb = load_workbook("Book1.xlsx")
 
-# 
+# baca worksheet
 ws = wb["Sheet1"]
 
 # 
