@@ -156,8 +156,8 @@
     - https://www.myinstants.com/en/instant/dota-double-kill/
     - https://www.myinstants.com/en/instant/dota-triple-kill/
   - Add difficulity
-- Intro Godot
-  - https://godotengine.org/download/windows/
+- Game platformer
+  - Repository: https://github.com/hardik-kapadia/pygame-2d-platformer.git
 
 ## Pertemuan 11
 - Jupyter Notebook
@@ -165,11 +165,6 @@
 - https://github.com/ruang-belajar/python/blob/master/notebook/01-intro-python-jupyter.ipynb
 - https://github.com/ruang-belajar/python/blob/master/notebook/04-google-colab-latex.ipynb
 - https://github.com/ruang-belajar/python/blob/master/notebook/02-intro-pandas.ipynb
-
-## Pertemuan 11
-- Jupyter Notebook
-- https://github.com/ruang-belajar/python/blob/master/notebook/02-intro-pandas.ipynb
-
 
 ## Pertemuan 12
 - Pillow
