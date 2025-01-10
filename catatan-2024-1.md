@@ -140,7 +140,6 @@
     - Koreksi:
       - Gambar disimpan di `resources/img/` (bukan `resources/images/`)
     - Assignment repositori: https://classroom.github.com/a/HgvxHz9U
----
 
 ## Pertemuan 10
 - Review "Game Panah"
@@ -162,13 +161,20 @@
 ## Pertemuan 11
 - Jupyter Notebook
 - Google Colab
-- https://github.com/ruang-belajar/python/blob/master/notebook/01-intro-python-jupyter.ipynb
-- https://github.com/ruang-belajar/python/blob/master/notebook/04-google-colab-latex.ipynb
-- https://github.com/ruang-belajar/python/blob/master/notebook/02-intro-pandas.ipynb
+- [01-intro-python-jupyter.ipynb](notebook/01-intro-python-jupyter.ipynb)
+- [04-google-colab-latex.ipynb](notebook/04-google-colab-latex.ipynb)
+- [02-intro-pandas.ipynb](notebook/02-intro-pandas.ipynb)
+- Tugas: Kerjakan latihan di [02-intro-pandas.ipynb](notebook/02-intro-pandas.ipynb)
 
 ## Pertemuan 12
-- Pillow
-- OpenCV
+- Jupyter Notebook
+- [02-intro-pandas.ipynb](notebook/02-intro-pandas.ipynb)
+  - Review Latihan
+  - `count`, `mean`, `sum`, `groupby`
+- [latihan-1.ipynb](notebook/latihan-1.ipynb)
+- [03-matplotlib.ipynb](notebook/03-matplotlib.ipynb)
+
+---
 
 ## Pertemuan 13
 - Web Scrapping
