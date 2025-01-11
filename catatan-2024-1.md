@@ -174,7 +174,6 @@
 - [05-pandas-series-join.ipynb](notebook/05-pandas-series-join.ipynb)
 - [latihan-1.ipynb](notebook/latihan-1.ipynb)
 - [03-matplotlib.ipynb](notebook/03-matplotlib.ipynb)
-- Tugas [latihan-2.ipynb](notebook/latihan-2.ipynb) 
 
 ---
 
