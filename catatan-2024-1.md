@@ -183,11 +183,10 @@
   - matplotlib: bar chart
 
 ## Pertemuan 14
-- OpenCV [06-opencv.ipynb](notebook/06-opencv.ipynb)
+- OpenCV [06-opencv.ipynb](notebook/06-computer-vision.ipynb)
 - pilgram [pilgram.ipynb](notebook/pilgram.ipynb)
   - run script on CLI
 - Object Detection [07-object-detection.ipynb](notebook/07-object-detection.ipynb)
-
 
 ---
 
