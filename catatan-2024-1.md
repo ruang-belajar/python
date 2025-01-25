@@ -175,14 +175,22 @@
 - [latihan-1.ipynb](notebook/latihan-1.ipynb)
 - [03-matplotlib.ipynb](notebook/03-matplotlib.ipynb)
 
----
-
 ## Pertemuan 13
-- Web Scrapping
-- BeautifulSoup
+- Latihan [latihan-3.ipynb](notebook/latihan-3.ipynb)
+  - filtering
+  - groupby
+  - merge
+  - matplotlib: bar chart
 
 ## Pertemuan 14
-- Selenium
+- OpenCV [06-opencv.ipynb](notebook/06-opencv.ipynb)
+- pilgram [pilgram.ipynb](notebook/pilgram.ipynb)
+  - run script on CLI
+- Object Detection [07-object-detection.ipynb](notebook/07-object-detection.ipynb)
+
+
+---
+
 
 ## Pertemuan 15
 - Simulasi UAS
